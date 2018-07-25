@@ -3,8 +3,8 @@ Repackaging of the Komodo python remote debugging package for building into usab
 
 Works with all versions of python 2.2->2.7 and 3.0->3.6, with sane backoff to pure python implementations when 
 the pre-compiled shared library extensions are not available (which is rare). Tested with Komodo 9.2 and 10.2.2
-Using the 10.2.2.89895 build of the Komodo Python remote debugging bindings. Exact packages used can be found in 
-the __pkgs__ directory.
+Using the 11.1.0.91033 build of the Komodo Python remote debugging bindings. Exact packages used can be found in 
+the `__pkgs__` directory.
 
 ```bash
 $ pip install komodo-pydbgp
